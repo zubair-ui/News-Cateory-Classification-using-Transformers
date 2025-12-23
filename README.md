@@ -1,4 +1,4 @@
-# 📰 News Category Classification with DistilBERT
+# News Category Classification with DistilBERT
 
 This project fine-tunes a **DistilBERT** transformer model to perform **multi-class news article classification** on the **News Category Dataset** from Kaggle.  
 The task involves predicting one of **42 news categories** based on article headlines and short descriptions.
@@ -113,3 +113,9 @@ This project demonstrates an **end-to-end NLP pipeline** using transformers, inc
 - Handling class imbalance
 - Fine-tuning a pre-trained model
 - Evaluation with strong metrics and visual analysis
+
+---
+
+# IMPORTANT
+
+This project uses Git LFS to store one large file so to use this project you must use the git clone command and not doenlaod it directly, otherwise the large file will not be downloaded
