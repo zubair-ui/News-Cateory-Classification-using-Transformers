@@ -118,4 +118,4 @@ This project demonstrates an **end-to-end NLP pipeline** using transformers, inc
 
 # IMPORTANT
 
-This project uses Git LFS to store one large file so to use this project you must use the git clone command and not doenlaod it directly, otherwise the large file will not be downloaded
+This project uses Git LFS to store one large file so to use this project you must use the git clone command and not downlaod it directly, otherwise the large file will not be downloaded
